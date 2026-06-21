@@ -1,3 +1,5 @@
+#LIVE DEMO: https://weave-world-well.lovable.app
+
 # SafeHer MVP
 
 Hackathon-ready web prototype.
